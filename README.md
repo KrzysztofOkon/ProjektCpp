@@ -1,4 +1,4 @@
-# Gra Asteroidy 3d wc++/unreal engine 5
+# Gra Asteroidy 3d w c++/unreal engine 5
 
 Odtworzenie klasycznej gry "asteroids" w trójwymiarze przy użyciu c++ i silnika unreal engine 5  
 Gra polega na sterowaniu statkiem i strzelaniu w nadlatujące asteroidy  
